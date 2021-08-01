@@ -1,6 +1,13 @@
 ### Ola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Eu sou Guilherme Barros!
 
 
+<img src="https://github.com/<guilhermeSDB>/<MAPA-Faculdade>/blob/<master>/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
+
+
+
+
 <!--START_SECTION:waka-->
 ```text
 
