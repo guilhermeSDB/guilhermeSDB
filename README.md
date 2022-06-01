@@ -1,6 +1,6 @@
 <h3>👩‍💻 Quem sou eu 👩‍💻</h3>
 <p align="left">Ola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25px"> Eu sou Guilherme Barros!<br>
-Desenvolvedor Frontend Junior.
+Desenvolvedor Frontend.
 </p>
 
 <h3>🗂️ O que você encontra no meu Github 🗂️</h3>
