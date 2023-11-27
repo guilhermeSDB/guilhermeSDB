@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Typescript, NestJS, Angular, Jest<br>🎯 Goals: Become a  Javascript Expert<br>🎲 Fun fact: I hated coffee until I became a developer</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Typescript, NestJS, Angular, Jest<br>🎯 Goals: Become a  Javascript Expert<br>🎲 Fun fact: I hated coffee until I became a developer</p>
 
 ###
 
