@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning NestJS<br>🎯 Goals: Become a Javascript Expert<br>🎲 Fun fact: I hated coffee until I became a developer</p>
+<p align="left">
+  ✨ Creating bugs since 2019
+  <br>📚 I'm currently learning Golang
+  <br>🎯 Goals: Become a Javascript Expert
+  <br>🎲 Fun fact: I hated coffee until I became a dev
+</p>
 
 ###
 
@@ -33,6 +38,8 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=angular" height="50" alt="angularjs logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=reactivex" height="50" alt="reactivex logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="50" alt="nuxtjs logo"  />
@@ -45,7 +52,15 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=electron" height="50" alt="electron logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tauri" height="50" alt="tauri logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=pnpm" height="50" alt="pnpm logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=elysia" height="50" alt="elysia logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"  />
   <img width="8" />
@@ -55,9 +70,25 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="50" alt="rabbitmq logo"  />
+  <img width="8" />
+
 </div>
 
 ###
